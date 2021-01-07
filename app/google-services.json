@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837227035914",
+    "project_id": "milaan-114b8",
+    "storage_bucket": "milaan-114b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837227035914:android:410aa05d520b8c08cacef3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837227035914-nnlgjndmiemmsi9srbbiii99tu9mspct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc7Z871wIt-3hbst99vutotSiFK11EBeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837227035914-nnlgjndmiemmsi9srbbiii99tu9mspct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
